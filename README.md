@@ -4,4 +4,4 @@
 
 # le dossier Projet_web_sec_secure contient le méme code que l'autre dossier mais avec des modifications pour corriger les failles
 # NB : dans le fichier config.php il faut changer les paramétres de connexion à la base de données
-# NB : il faut éxecuter le fichier code.sql pour créer la base de données
+# NB : il faut éxecuter le fichier php_vuln.sql pour créer la base de données
